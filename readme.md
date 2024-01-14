@@ -41,7 +41,7 @@
 <h2>Getting Started</h2>
 <p>This section provides instructions on how to set up and run the Java Spring Boot microservice and the accompanying React frontend application. Follow these steps to get the project up and running on your local machine for development and testing purposes.</p>
 <h3>Prerequisites</h3>
-<p>Before you begin, ensure you have the following installed on your system:</p>
+<p>Before you begin, ensure you have the following installed and set up on your system:</p>
 <ul>
   <li><strong>Java JDK 21:</strong> The application is built using Java 21. You can download it from <a href="https://www.oracle.com/java/technologies/javase-jdk21-downloads.html">Oracle's Java SE Downloads</a> or use a version manager like <a href="https://sdkman.io/">SDKMAN</a>.</li>
   <li><strong>Spring Boot:</strong> This project uses Spring Boot. And has been developed inside <a href="https://www.jetbrains.com/idea/download">IntelliJ IDEA</a> its recoommended to use it or a similar IDE for development.</li>
