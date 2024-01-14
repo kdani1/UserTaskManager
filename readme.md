@@ -53,7 +53,7 @@
 <p>Clone the Repository:</p>
 <pre>
 <code>
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/kdani1/UserTaskManager.git
 cd your-repo-name
 </code>
 </pre>
